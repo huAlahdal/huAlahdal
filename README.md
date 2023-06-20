@@ -13,7 +13,7 @@
 const hussein = {
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Lua, C++],
   tools: [React, Redux, Node, Angular, Styled-Components, Git, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  frameworks: ["Angular", "Asp.net core", "nest.js"],
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
