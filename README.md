@@ -12,13 +12,9 @@
 ```javascript
 const hussein = {
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Lua, C++],
-  tools: [React, Redux, Node, Angular, Styled-Components, Git, Docker],
-  frameworks: ["Angular", "Asp.net core", "nest.js"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
+  frameworks: [React, Redux, Node, Angular, .NET, bootsrap],
+  dev_tools: ["VS Code", "Git", "Github", "Bash", "Postman", "Docker"],
+  
  challenge: "I am doing the #100DaysOfCode challenge focused on Angular and typescript"
 }
 ```
