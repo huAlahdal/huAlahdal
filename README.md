@@ -15,7 +15,7 @@ const hussein = {
   frameworks: [React, Redux, Node, Angular, .NET, bootsrap],
   dev_tools: ["VS Code", "Git", "Github", "Bash", "Postman", "Docker"],
   
- challenge: "I am doing the #100DaysOfCode challenge focused on Angular and typescript"
+ summery: "Motivated and skilled Full Stack Developer with 5 years of experience in designing and developing dynamic web applications. Proficient in both front-end and back-end technologies, with a strong understanding of user experience design principles."
 }
 ```
 
